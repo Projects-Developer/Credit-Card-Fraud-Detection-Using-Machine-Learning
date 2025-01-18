@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-Using-Machine-Learning
+# Credit Card Fraud Detection Using Machine Learning
 The Credit Card Fraud Detection project With Code, Documents And Video Tutorial 
 
 ![Credit Card](https://github.com/user-attachments/assets/f70077c3-2ef1-4e8a-aadb-ba9bd63ffea4)
